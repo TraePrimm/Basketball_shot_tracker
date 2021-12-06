@@ -12,13 +12,16 @@ When collecting data I recorded roughly 2 hours of footage to be processed throu
 
 </b1>
 <br>
-<b1> I used [labelImg](https://github.com/tzutalin/labelImg) to process all of my images.<br>
+<b1> I used <a href="https://github.com/tzutalin/labelImg">labelImg</a> to process all of my images.<br>
  
  ![labelimg screenshot](https://github.com/TraePrimm/Basketball_shot_tracker/blob/74bc7427929bc37344dd4cf3f3fd8f40cab5411b/images%20and%20videos/labelimg.png)</b1>
  
  <h1> Model </h1>
  <b1>
-I used darknet for the yolov4 model which can be found [here](https://github.com/AlexeyAB/darknet). </b1>
+I used darknet for the yolov4 model which can be found <a href="https://github.com/AlexeyAB/darknet">here</a>. </b1>
 
-<b1> This project was used for two of my classes and I can say I am happy about the results and would like to strive to advance this to a more complete system. I have a video of the current iteration below.<br>
-![exampledata](https://github.com/TraePrimm/Basketball_shot_tracker/blob/a0e943562d9f5643fd53f8add920f334d6b92fbb/images%20and%20videos/demo.gif)<br>.
+<b1> This project was used for two of my classes and I can say I am happy about the results and would like to strive to advance this to a more complete system. <br> Here is a snipit from the demo video.<br>
+![exampledata](https://github.com/TraePrimm/Basketball_shot_tracker/blob/a0e943562d9f5643fd53f8add920f334d6b92fbb/images%20and%20videos/demo.gif)<br>
+</b1>
+ <b1>
+I was unable to upload the weigt file to github so <a href="https://www.mediafire.com/file/3652vqzgoebdz06/yolov4-basketball_final.weights/file">here</a> is a link to download it.
