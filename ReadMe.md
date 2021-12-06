@@ -18,10 +18,7 @@ When collecting data I recorded roughly 2 hours of footage to be processed throu
  
  <h1> Model </h1>
  <b1>
- 
-![Yolo logo](https://github.com/TraePrimm/Basketball_shot_tracker/blob/74bc7427929bc37344dd4cf3f3fd8f40cab5411b/images%20and%20videos/yologo_2.png)<br>
- 
 I used darknet for the yolov4 model which can be found [here](https://github.com/AlexeyAB/darknet). </b1>
 
 <b1> This project was used for two of my classes and I can say I am happy about the results and would like to strive to advance this to a more complete system. I have a video of the current iteration below.<br>
-  [[images and videos/vid2_yolov4_demo.mp4]]
+![exampledata](https://github.com/TraePrimm/Basketball_shot_tracker/blob/a0e943562d9f5643fd53f8add920f334d6b92fbb/images%20and%20videos/demo.gif)<br>.
