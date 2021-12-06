@@ -7,6 +7,7 @@ When collecting data I recorded roughly 2 hours of footage to be processed throu
  
 ![exampledata](https://github.com/TraePrimm/Basketball_shot_tracker/blob/images and videos/unnamed.jpg?raw=true)
 
+[test](images and videos/unnamed.jpg)
 [[images and videos/unnamed.jpg]]
 
 </b1>
