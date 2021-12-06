@@ -2,7 +2,8 @@
 <b1> For this project I want to be able to track as many elements that I can from a basketball game. I think the most important is scoring so that would be a good starting point.</b1>
 <br>
 <b1>
-When collecting data I recorded roughly 2 hours of footage to be processed through [vids_to_frames.py](https://github.com/TraePrimm/Basketball_shot_tracker/blob/main/extra%20.pys/vid_to_frame.py). From those images I selected 900 of them which can be found [here](link to obj)
+When collecting data I recorded roughly 2 hours of footage to be processed through 
+ [vids_to_frames.py](https://github.com/TraePrimm/Basketball_shot_tracker/blob/main/extra%20.pys/vid_to_frame.py). From those images I selected 900 of them which can be found [here](link to obj)
 
 [[images and videos/unnamed.jpg]]
 
