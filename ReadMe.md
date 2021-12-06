@@ -12,13 +12,13 @@ When collecting data I recorded roughly 2 hours of footage to be processed throu
 
 </b1>
 <br>
-<b1> I used [labelimg](https://github.com/tzutalin/labelImg) to process all of my images.<br>
+<b1> I used [labelImg](https://github.com/tzutalin/labelImg) to process all of my images.<br>
  
- ![[images and videos/labelimg.png]]</b1>
+ ![labelimg screenshot](https://github.com/TraePrimm/Basketball_shot_tracker/blob/74bc7427929bc37344dd4cf3f3fd8f40cab5411b/images%20and%20videos/labelimg.png)</b1>
  
  <h1> Model </h1>
  <b1>
- ![[images and videos/yologo_2.png]]<br>
+ ![Yolo logo](https://github.com/TraePrimm/Basketball_shot_tracker/blob/74bc7427929bc37344dd4cf3f3fd8f40cab5411b/images%20and%20videos/yologo_2.png)<br>
  
 I used darknet for the yolov4 model which can be found [here](https://github.com/AlexeyAB/darknet). </b1>
 
