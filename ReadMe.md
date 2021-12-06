@@ -6,7 +6,7 @@
 <b1>
 
 When collecting data I recorded roughly 2 hours of footage to be processed through 
-[script](.py files/vid_to_frame.py). From those images I selected 900 of them which can be found in the files and videos folder.
+[vid_to_frame.py](https://github.com/TraePrimm/Basketball_shot_tracker/blob/5d6b978afb6ebdcab41c3f926b557aaeed9a4fc0/.py%20files/vid_to_frame.py). From those images I selected 900 of them which can be found in the files and videos folder.
  
 ![exampledata](https://github.com/TraePrimm/Basketball_shot_tracker/blob/main/images%20and%20videos/unnamed.jpg?raw=true)
 
